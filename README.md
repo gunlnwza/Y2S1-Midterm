@@ -4,7 +4,7 @@ A cheatsheets repo for my friends.
 
 **Disclaimer: Please take everything I say below with a grain of salt, and also do your own research. All lecturers have taught a lot of things in this semester. So, there might be some topics on the test that I forgot, choose to not include here, or just a pure speculation by me.**
 
-Tip: Expose yourself to a lot of practice problems. So, here is a lot of practice problems for you to do!
+Tip: Expose yourself to a lot of practice problems. So, below is a lot of practice problems for you to do!
 
 **Please try them by yourself first.** Only after fighting bravely for 10 minutes, may you look at the solution.
 
@@ -31,11 +31,10 @@ Tip: If you can prove the statements, you will gain a deeper understanding.
 - transpose
 - operations
 - determinant
-- 
 
 ## Numerical Methods (Calculus x Programming)
 
-Tip: If you can visualize it on a graph, you will find this subject easy. Bonus point if you can work it in your head
+Tip: If you can visualize it on a graph, you will find this subject easy. Bonus points if you can work it out in your head.
 
 - root finding
 - bisections
@@ -45,7 +44,7 @@ Tip: If you can visualize it on a graph, you will find this subject easy. Bonus 
 Tip: To understand this subject, you need to stop thinking in Python and start thinking in C (a parent language of C++, not capable of OOP).
 Or just think of it in pseudocode-style language, as long as it is not Python. 
 
-Python is doing a lot of things for us, which makes it easier for us to translate our thought process. But this makes it harder for us to understand the real concepts. This is somewhat similiar to how when people have a shallow understanding of something, they tend to use complicate vocabularies to help them get their points across. Convenience is a bad thing here.
+Python is doing a lot of things for us, which makes it easier to translate our thought process. But this makes it harder to understand the real concepts. This is somewhat similiar to how when people have a shallow understanding of something, they tend to use complicate vocabularies to help them get their points across. Convenience is a bad thing here.
 
 (python list meme)
 
